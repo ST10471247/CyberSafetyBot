@@ -6,8 +6,6 @@ A chatbot that teaches South African citizens about online safety.
 ## CI Status
 ✅ CI Build Passing
 
-![CI Workflow](https://github.com/ST10471247/CyberSafetyBot/actions/workflows/dotnet.yml/badge.svg)
-
 ## Features
 - 🎤 Voice greeting on startup
 - 🎨 ASCII art logo
