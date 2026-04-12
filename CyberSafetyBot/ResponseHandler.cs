@@ -34,6 +34,7 @@ namespace CyberSafetyBot
 3. Never reuse passwords across different websites
 4. Use a password manager to keep track of everything
 5. Turn on two-factor authentication whenever possible
+6. change your password every 3-6 months
 
 Bad passwords to avoid: password123, qwerty, your name, or 12345678");
 
