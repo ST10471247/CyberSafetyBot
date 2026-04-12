@@ -21,7 +21,7 @@ namespace CyberSafetyBot
             responses.Add("how are you", "I'm functioning well, thanks for asking! Ready to help you learn about cybersecurity.");
             responses.Add("what is your purpose", "My purpose is to educate people about online threats like phishing, malware, and social engineering scams.");
             responses.Add("what can i ask", "You can ask me about passwords, phishing, safe browsing, or suspicious links.");
-            responses.Add("help", "I can teach you about:\n- Creating strong passwords\n- Spotting phishing emails\n- Safe internet browsing\n- Recognizing fake links\n\nJust type any of these topics!");
+            responses.Add("help", "I can teach you about:\n- Creating strong passwords\n- Spotting phishing emails\n- Safe internet browsing\n- Recognizing fake links\n What to do if you get hacked\n\nJust type any of these topics!");
             responses.Add("hello", "Hi there! Want to learn about staying safe online?");
             responses.Add("hi", "Hello! I'm your cybersecurity guide. Ask me anything about online safety.");
             responses.Add("thanks", "You're welcome! Stay safe out there.");
