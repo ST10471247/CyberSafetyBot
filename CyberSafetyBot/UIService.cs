@@ -17,7 +17,7 @@ namespace CyberSafetyBot
     *              [ SHIELD ]                   *
     *              [ ALERT  ]                   *
     *                                           *
-    *    Protecting South African Citizens     *
+    *    Stay safe online Mzanzi!!     *
     *********************************************";
             Console.WriteLine(art);
             Console.ResetColor();
