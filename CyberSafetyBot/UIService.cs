@@ -10,7 +10,7 @@ namespace CyberSafetyBot
             Console.ForegroundColor = ConsoleColor.Cyan;
             string art = @"
     *********************************************
-    *         CYBERSECURITY AWARENESS          *
+    *         CYBER SAFETY BOT          *
     *               ASSISTANT                  *
     *                                           *
     *              [  LOCK  ]                   *
