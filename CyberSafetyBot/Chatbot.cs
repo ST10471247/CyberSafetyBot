@@ -21,6 +21,9 @@ namespace CyberSafetyBot
             // Play voice greeting first
             audio.PlayGreeting();
 
+            //Wait a moment for audio to finish before showing art
+            Thread.Sleep(500);
+
             // Then show everything else
             ui.DisplayAsciiArt();
             ui.ShowBorder("WELCOME TO CYBERSECURITY AWARENESS BOT");
