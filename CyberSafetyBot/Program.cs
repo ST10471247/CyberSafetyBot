@@ -6,7 +6,7 @@ namespace CyberSafetyBot
     {
         static void Main(string[] args)
         {
-            Console.Title = "Cybersecurity Awareness Bot";
+            Console.Title = "Cyber Safety Bot Protecting Mzansi!!";
             Chatbot bot = new Chatbot();
             bot.Start();
 
