@@ -15,8 +15,8 @@ A chatbot that teaches South African citizens about online safety.
 -  Safe browsing practices
 -  Suspicious link detection
 
-## Video Demo
-Screen recorded
+## Video Link
+https://youtu.be/aX2UhKmpZjU
 
 Author
 ST10471247
